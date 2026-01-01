@@ -354,7 +354,3 @@ Software Engineer | Flutter & Supabase Expert
 > Source code is private due to proprietary logic.
 
 ```
-*
-
-قلي 👌
-```
