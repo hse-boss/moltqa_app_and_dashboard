@@ -354,17 +354,7 @@ Software Engineer | Flutter & Supabase Expert
 > Source code is private due to proprietary logic.
 
 ```
-
----
-
-## ⭐ الخلاصة
-- هذا الآن **Senior / Production-grade README**
-- مرتب، مقروء، ويعكس وعي معماري عالي
-- مناسب جدًا لـ GitHub – LinkedIn – مقابلات
-
-لو حاب:
-- أحوّله إلى **نسخة أقصر HR-friendly**
-- أو أطلع لك **CV bullets مباشرة منه**
+*
 
 قلي 👌
 ```
